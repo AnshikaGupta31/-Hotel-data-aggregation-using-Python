@@ -1,0 +1,15 @@
+Download an open dataset of the store named 'Vrinda Store'. 
+Import the dataset into the Excel platform. 
+Performed Data Wrangling over the dataset 
+i. Removing missing values 
+ii. Eliminating all duplications vis Data validation method 
+iii. Checking all the data types of the different fields. 
+iv. Eliminating unused fields not used for analysis.
+Performing Feature Selection by pivoting important factors for analysis:
+i. Monthly Sales trend vs Orders 
+ii. Gender distribution of sales 
+iii. Top 10 State Sales for the FY 2022 
+iv. Channel-wise Sales through various platforms 
+v. Age Contribution for sales. 
+vi. Order Status vs Quantity of Orders (either Returned, Cancelled or Refunded)
+Structuring Interactive Dashboard using the pivot charts, applying slicers for the dashboard
