@@ -1,0 +1,19 @@
+Conducted comprehensive Exploratory Data Analysis (EDA) on the Roller Coaster dataset obtained from kaggle. 
+Import Libraries (numpy, pandas, matplotlib and seaborn)
+Step 1: Data Understanding
+#Dataframe shape 
+#head and tail 
+#dtypes
+#describe
+Step 2: Data Preparation
+#Dropping irrelevant columns and rows 
+#Identifying duplicated columns 
+#Renaming Columns 
+#Feature Creation
+Step 3: Feature Understanding
+(Univariate analysis)
+#Plotting Feature Distributions Histogram KDE Boxplot
+Step 4: Feature Relationships
+#Scatterplot Heatmap Correlation Pairplot Groupby comparisons
+Step 5: Ask a Question about the data
+Try to answer a question you have about the data using a plot or statistics
